@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Ultra&display=swap');
+
+.title{
+    font-family: 'Roboto Mono', monospace;
+
+    font-family: 'Ultra', serif;
+}
+html,body{
+    height: 100%;
+}
+
+footer{
+    background-color: rgb(188, 195, 201);
+}
+
+.svg
+{
+    height: 50px;
+    width: 50px;
+}
+
+.profile
+{
+    height: 10px;
+    width: 100px;
+}
